@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>图三</title>
+    <style>
+        .heise{
+            background-color: dimgrey;
+            height: 40px;
+        }
+
+        .huise{
+            background-color: grey;
+            height: 80px;
+            width: 80px;
+            margin: 1px;
+            float: left;
+
+        }
+        .baise{
+            height: 82px;
+            
+        }
+    </style>
+</head>
+<body>
+    <div class="heise"><h1>简历</h1></div>
+    <div class="huise">基本信息</div>
+    <div class="baise">姓名 张三 性别 男 应聘职位 web前端工程师</div>
+    <div class="huise">联系方式</div>
+    <div class="baise">手机 1234567 Email<a href="396026306@qq.com">396026306@qq.com</a> 个人主页<a href="https://github.com/">github</a></div>
+    <div class="huise">能力概述</div>
+    <div class="baise"> 技术能力 熟练掌握HTML,CSS,JavaScript 综合能力 良好的沟通，主动积极，努力勤奋</div>
+    <div class="huise">教育经历</div>
+    <div class="baise">本科 百度前端技术学院小微学院 研究生 百度前端技术学院大斌学院</div>
+    <div class="huise">项目经历</div>
+    <div class="baise">小度小度 作为前端工程师角色参与了ABC组件的开发 SAN Doc 作为文档工程师参与了SAN Doc编写</div>
+    
+</body>
+</html>
